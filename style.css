@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.n{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.k{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h{
+    display: flex;
+    align-items: center;
+}
+.darkbg{
+    background-image: url(Vector@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+}
+
+.whitebg{
+    background-image: url(Vector@2x.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50px;
+    height: 50px;
+}
